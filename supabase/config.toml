@@ -1,0 +1,4 @@
+project_id = "iqup-telegram"
+
+[functions.iqup-telegram]
+verify_jwt = false
